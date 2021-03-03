@@ -7,10 +7,10 @@ my name is **Henrique** I've 21 years old, actually i living in Brasilia, Brazil
 - 🌱 Currently learning [`emotion`](https://emotion.sh/docs/introduction) `TDD/BDD tests`
 - 👾 I like to play videogames
 
-<div style="display: flex; align-items: center;">
-<a href="https://en.wikipedia.org/wiki/One_Piece">
-<img style="margin: 10px 10px 10px 0; height: 30px; object-fit: contain" src="https://www.pngkey.com/png/full/305-3059206_time-one-piece.png"
+- <a href="https://en.wikipedia.org/wiki/One_Piece">
+<img height="40" src="https://www.pngkey.com/png/full/305-3059206_time-one-piece.png"
      alt="One piece" ></a> biggest fan of my house
-</div>
+
+
 
 **website:** https://henrique770.github.io/
