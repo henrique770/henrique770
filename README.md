@@ -8,7 +8,7 @@ my name is **Henrique** I've 21 years old, actually i living in Brasilia, Brazil
 - 👾 I like to play videogames
 
 <a href="https://en.wikipedia.org/wiki/One_Piece">
-<img height="40" src="https://www.pngkey.com/png/full/305-3059206_time-one-piece.png"
+<img height="40" src="https://thequirkyquibbler.com/wp-content/uploads/2015/06/One_Piece_Logo.png"
      alt="One piece" ></a>
 
 biggest fan of my house
