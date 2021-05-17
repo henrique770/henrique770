@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name is **Henrique** I've 21 years old. I currently live in Brasilia, Brazil.
+my name is **Henrique** I've 22 years old. I currently live in Brasilia, Brazil.
 
 - 🎓 Graduated in Information Systems
 - 💻 Currently working with [`Javascript`](https://www.javascript.com/) [`React`](https://reactjs.org/) [`Typescript`](https://www.typescriptlang.org/) [`Styled components`](https://styled-components.com/)
